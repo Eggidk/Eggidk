@@ -1,2 +1,3 @@
-# Kurumi
+# Hello!
 training css :)
+currently studying
